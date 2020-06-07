@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\bin\Debug\netcoreapp3.1\SBSC.exe
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\bin\Debug\netcoreapp3.1\SBSC.deps.json
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\bin\Debug\netcoreapp3.1\SBSC.runtimeconfig.json
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\bin\Debug\netcoreapp3.1\SBSC.runtimeconfig.dev.json
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\bin\Debug\netcoreapp3.1\SBSC.dll
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\bin\Debug\netcoreapp3.1\SBSC.pdb
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\obj\Debug\netcoreapp3.1\SBSC.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\obj\Debug\netcoreapp3.1\SBSC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\obj\Debug\netcoreapp3.1\SBSC.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\obj\Debug\netcoreapp3.1\SBSC.AssemblyInfo.cs
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\obj\Debug\netcoreapp3.1\SBSC.dll
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\obj\Debug\netcoreapp3.1\SBSC.pdb
+C:\Users\HP\Desktop\SCBC\SBSC\SBSC\obj\Debug\netcoreapp3.1\SBSC.genruntimeconfig.cache
